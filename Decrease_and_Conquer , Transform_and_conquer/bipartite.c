@@ -1,25 +1,4 @@
-live_bipartite.c
-Who has access
-V
-System properties
-Type
-C
-Size
-993 bytes
-Storage used
-993 bytesOwned by PES Institutions
-Location
-Programs - Prof Shylaja
-Owner
-Vibha(PES1UG19CS565) PESU S&H Student
-Modified
-Feb 12, 2021 by Vibha(PES1UG19CS565) PESU S&H Student
-Opened
-9:03 PM by me
-Created
-Feb 12, 2021
-No description
-Viewers can download
+
 #include<stdio.h>
 #define MAX 5
 int is_bipartite(int sv,int adj[MAX][MAX],int n,int visited[MAX],int color[MAX]);
