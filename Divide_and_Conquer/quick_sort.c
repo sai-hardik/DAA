@@ -1,25 +1,4 @@
-live_quick_sort.c
-Who has access
-V
-System properties
-Type
-C
-Size
-1 KB
-Storage used
-1 KBOwned by PES Institutions
-Location
-Programs - Prof Shylaja
-Owner
-Vibha(PES1UG19CS565) PESU S&H Student
-Modified
-Feb 4, 2021 by Vibha(PES1UG19CS565) PESU S&H Student
-Opened
-8:59 PM by me
-Created
-Feb 4, 2021
-No description
-Viewers can download
+
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
