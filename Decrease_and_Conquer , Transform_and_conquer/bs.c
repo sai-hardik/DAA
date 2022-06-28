@@ -1,25 +1,4 @@
-live_bs.c
-Who has access
-V
-System properties
-Type
-C
-Size
-663 bytes
-Storage used
-663 bytesOwned by PES Institutions
-Location
-Programs - Prof Shylaja
-Owner
-Vibha(PES1UG19CS565) PESU S&H Student
-Modified
-Feb 2, 2021 by Vibha(PES1UG19CS565) PESU S&H Student
-Opened
-9:03 PM by me
-Created
-Feb 2, 2021
-No description
-Viewers can download
+
 #include<stdio.h>
 int bs(int a[50],int low,int high,int key);
 int main()
