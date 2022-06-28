@@ -1,25 +1,4 @@
-live_lexicographic_order.c
-Who has access
-V
-System properties
-Type
-C
-Size
-912 bytes
-Storage used
-912 bytesOwned by PES Institutions
-Location
-Programs - Prof Shylaja
-Owner
-Vibha(PES1UG19CS565) PESU S&H Student
-Modified
-Feb 17, 2021 by Vibha(PES1UG19CS565) PESU S&H Student
-Opened
-9:07 PM by me
-Created
-Feb 17, 2021
-No description
-Viewers can download
+
 #include<stdio.h>
 void sort(int a[10],int low,int n)
 {
