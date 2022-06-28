@@ -1,25 +1,4 @@
-live_dfs.c
-Who has access
-V
-System properties
-Type
-C
-Size
-577 bytes
-Storage used
-577 bytesOwned by PES Institutions
-Location
-Programs - Prof Shylaja
-Owner
-Vibha(PES1UG19CS565) PESU S&H Student
-Modified
-Feb 11, 2021 by Vibha(PES1UG19CS565) PESU S&H Student
-Opened
-9:04 PM by me
-Created
-Feb 11, 2021
-No description
-Viewers can download
+
 #include<stdio.h>
 #define MAX 5
 void read_matrix(int adj[MAX][MAX],int n)
